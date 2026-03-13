@@ -1,7 +1,7 @@
 name: component_one
 description: "First test component with flat structure"
 functions:
-  - name: process
+  - name: return
     inputs:
       - name: text
         type: string
