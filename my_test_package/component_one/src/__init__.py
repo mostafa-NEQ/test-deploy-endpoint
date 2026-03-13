@@ -1,3 +1,3 @@
-from .src.component import ComponentOneComponent
+from .component import ComponentOneComponent
 
 __all__ = ['ComponentOneComponent']
